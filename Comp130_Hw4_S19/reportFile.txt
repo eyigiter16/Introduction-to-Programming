@@ -1,0 +1,7 @@
+_______REPORT FOR COMP130 AQUARIUM_______
+Price of fish3 is 40.0.
+Price of fish1 is 80.0.
+Price of fish2 is 88.0.
+Price of fish4 is 96.0.
+Price of fish5 is 40.0.
+Price of fish3 is 80.0.
